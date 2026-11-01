@@ -1,8 +1,15 @@
-# Define functions and edit Variables (which do not exist yet)
+# Define Variables
 
-# --> Edit values of routine (like time and so)
-def edit_values_of_routine():
-    print("Skeleton Structure")
+# Routine Times
+wake_up_time = 7
+go_to_school_time = 8
+play_after_school_with_friends_time = 5
+study_per_day_time = 2
+
+#special study per week timee calculating var
+study_time_for_whole_week = study_per_day_time * 7
+
+# Define functions and edit Variables
 
 
 # --> print routine function
@@ -16,17 +23,14 @@ def main_menu():
 # Start of Core Code
 print(" ----------------- \n My Daily Routine: \n -----------------")
 
-start_end = input("Press 1 to Print \n Press 2 to Edit \n Press 3 to Exit")
+start_end = input("Enter 1 to Print \n Enter 2 to Exit: ")
 
 
 # Print my daily Routine
 if start_end == 1:
 
-# Edit function
+# Exit Code
 elif start_end == 2:
-
-# End Code
-elif start_end == 3:
  print("Thanks for using my Tool:)")
 
 # Easter Egg
