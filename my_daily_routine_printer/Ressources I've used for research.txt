@@ -1,0 +1,5 @@
+Didn't remember how to return values from def:
+https://www.w3schools.com/python/python_functions.asp
+
+A git cheat sheet:
+https://git-scm.com/cheat-sheet
