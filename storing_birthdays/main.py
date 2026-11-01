@@ -15,8 +15,9 @@ print(f"- Benedikts birthday{benedikts_birthday}")
 print(f"- Ferdis birthday{ferdis_birthday}")
 print(f"- Stevens birthday{stevens_birthday}")
 print(f"- Edwards birthday{edwards_birthday}")
-
+print("\n")
 # add one more friend's birthday
+print("Add a new friend to the list")
 print("\n")
 nameofnewfriend = input("Please enter your friends name: ")
 birthdayofnewfriend = input("Please enter your friends birthday: ")
