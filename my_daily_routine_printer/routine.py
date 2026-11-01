@@ -11,7 +11,6 @@ study_time_for_whole_week = study_per_day_time * 7
 
 # Define functions and edit Variables
 
-
 # --> print routine function
 # "Has to be under all the funcs on the bottom, so it gets all the edited values'
 def print_routine_func():
