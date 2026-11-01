@@ -1,14 +1,14 @@
 print(" ----------------- \n My Daily Routine: \n -----------------")
 
-startend = input("Press 1 to Print \n Press 2 to Edit \n Press 3 to Exit")
+start_end = input("Press 1 to Print \n Press 2 to Edit \n Press 3 to Exit")
 
 
 
-if startend == "1":
+if start_end == "1":
 
-elif startend == "2":
+elif start_end == "2":
 
-elif startend == "3":
+elif start_end == "3":
 
 else:
 
