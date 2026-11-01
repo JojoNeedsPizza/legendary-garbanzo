@@ -12,9 +12,8 @@ study_time_for_whole_week = study_per_day_time * 7
 
 # Define functions and edit Variables
 def wanna_return_to_the_main_menu():
-    print("\n--------------")
+    print("\n")
     returnmainmenuyesno = input("Wanna return to the main menu? \n Enter y for yes or n for no: ")
-    print("--------------")
     if returnmainmenuyesno == "y":
         main_menu()
     else:
