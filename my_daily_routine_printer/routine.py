@@ -1,4 +1,4 @@
-# Define functions and edit Variables (which not exist yet)
+# Define functions and edit Variables (which do not exist yet)
 
 # --> Edit values of routine (like time and so)
 def edit_values_of_routine():
