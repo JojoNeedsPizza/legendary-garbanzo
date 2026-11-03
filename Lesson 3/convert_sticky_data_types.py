@@ -21,3 +21,6 @@ print(type(verity3))
 
 verity4 = str(verity4)
 print(type(verity4))
+
+# Faizade
+
