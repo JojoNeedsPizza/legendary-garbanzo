@@ -1,3 +1,3 @@
 import keyword
 
-print(f" Python keywords: \n {keyword.kwlist}")
+print(f" Python keywords: \n 0"f"{keyword.kwlist}")
