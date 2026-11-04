@@ -1,0 +1,21 @@
+ floor/ceilling principle == 5,5 + 5,1 = 10,6 => 11
+
+= defines value
+
+== reads value
+
+ > smaller than (boolean)
+ < bigger than (boolean)
+
+ <= either bigger than or equal to (boolean) # 5 < 6 = True or 5 == 6 = False
+ >= either smaller than or equal to (boolean) # 5 > 6 = False or 5 == 6 = False
+
+ != checks if it isnt equal to (boolean) # a = 5, b = 6, {a != b => True}
+
++= adds the value to the variable and assigns it to the variable # a = 5, a += 2 => a = 7
+-= subtracts the value to the variable and assigns it to the variable # a = 5, a -= 2 => a = 3
+*= multiplies the value to the variable and assigns it to the variable # a = 5
+**= raises the value to the power of the variable and assigns it to the variable # a = 5, a **= 2 => a = 25
+%= divides the value to the variable and assigns it to the variable # a = 5, a %= 2 => a = 1
+//= divides the value to the variable and assigns it to the variable # a = 5, a //= 2 => a = 2
+
