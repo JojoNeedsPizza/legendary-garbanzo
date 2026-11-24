@@ -33,8 +33,8 @@ for times_repeated in range(chars):
     #final_num = final_num + temp_num
 
 print(final_num)
-
-if final_num == number_to_check:
+print(number_to_check)
+if int(final_num) == int(number_to_check):
     print(f"Your number {final_num} is an Armstrong Number!")
 else:
     print(f"Your number {final_num} is not an Armstrong Number!")
